@@ -1,5 +1,6 @@
-#TrackApplication - Pawel Zmarlak
-##Intro
+# TrackApplication - Pawel Zmarlak
+
+## Intro
 This WPF app was developed specifically as a Coursework 2 for SET08119 using course materials, lectures, labs and open-source online resources available.
 
 ## Description
