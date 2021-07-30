@@ -1,0 +1,135 @@
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\bin\Debug\Trackandtrace1.exe.config
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\bin\Debug\Trackandtrace1.exe
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\bin\Debug\Trackandtrace1.pdb
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\Trackandtrace1.csprojAssemblyReference.cache
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\MainWindow.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\App.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\Trackandtrace1_MarkupCompile.cache
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\Trackandtrace1_MarkupCompile.lref
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\MainWindow.baml
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\Trackandtrace1.g.resources
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\Trackandtrace1.Properties.Resources.resources
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\Trackandtrace1.csproj.GenerateResource.cache
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\Trackandtrace1.csproj.CoreCompileInputs.cache
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\Trackandtrace1.exe
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\Trackandtrace1.pdb
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\individual_input.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\individual_input.baml
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\location_input.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\location_input.baml
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\visit_record.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\visit_record.baml
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\contact_record.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\contact_record.baml
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\generate_meetings.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\generate_meetings.baml
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\generate_visits.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1\Trackandtrace1\obj\Debug\generate_visits.baml
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\bin\Debug\Trackandtrace1.exe.config
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\bin\Debug\Trackandtrace1.exe
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\bin\Debug\Trackandtrace1.pdb
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\Trackandtrace1.csprojAssemblyReference.cache
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\contact_record.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\generate_meetings.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\generate_visits.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\individual_input.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\location_input.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\MainWindow.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\visit_record.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\App.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\Trackandtrace1_MarkupCompile.cache
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\Trackandtrace1_MarkupCompile.lref
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\contact_record.baml
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\generate_meetings.baml
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\generate_visits.baml
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\individual_input.baml
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\location_input.baml
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\MainWindow.baml
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\visit_record.baml
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\Trackandtrace1.g.resources
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\Trackandtrace1.Properties.Resources.resources
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\Trackandtrace1.csproj.GenerateResource.cache
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\Trackandtrace1.csproj.CoreCompileInputs.cache
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\Trackandtrace1.exe
+C:\Users\twenty3\source\repos\Trackandtrace1 - Final\Trackandtrace1\obj\Debug\Trackandtrace1.pdb
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Trackandtrace1.csprojAssemblyReference.cache
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Trackandtrace1.exe
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Trackandtrace1.pdb
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Presentation Layer\contact_record.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Presentation Layer\generate_meetings.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Presentation Layer\generate_visits.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Presentation Layer\individual_input.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Presentation Layer\location_input.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Presentation Layer\MainWindow.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Presentation Layer\visit_record.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\App.g.cs
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Trackandtrace1_MarkupCompile.cache
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Trackandtrace1_MarkupCompile.lref
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\bin\Debug\Trackandtrace1.exe.config
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\bin\Debug\Trackandtrace1.exe
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\bin\Debug\Trackandtrace1.pdb
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Presentation Layer\contact_record.baml
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Presentation Layer\generate_meetings.baml
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Presentation Layer\generate_visits.baml
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Presentation Layer\individual_input.baml
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Presentation Layer\location_input.baml
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Presentation Layer\MainWindow.baml
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Presentation Layer\visit_record.baml
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Trackandtrace1.g.resources
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Trackandtrace1.Properties.Resources.resources
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Trackandtrace1.csproj.GenerateResource.cache
+C:\Users\twenty3\source\repos\Trackandtrace1 - final 1.1Add Commends!!! - Copy\Trackandtrace1\obj\Debug\Trackandtrace1.csproj.CoreCompileInputs.cache
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\bin\Debug\Trackandtrace1.exe.config
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\bin\Debug\Trackandtrace1.exe
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\bin\Debug\Trackandtrace1.pdb
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Trackandtrace1.csprojAssemblyReference.cache
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Presentation Layer\contact_record.g.cs
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Presentation Layer\generate_meetings.g.cs
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Presentation Layer\generate_visits.g.cs
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Presentation Layer\individual_input.g.cs
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Presentation Layer\location_input.g.cs
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Presentation Layer\MainWindow.g.cs
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Presentation Layer\visit_record.g.cs
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\App.g.cs
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Trackandtrace1_MarkupCompile.cache
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Trackandtrace1_MarkupCompile.lref
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Presentation Layer\contact_record.baml
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Presentation Layer\generate_meetings.baml
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Presentation Layer\generate_visits.baml
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Presentation Layer\individual_input.baml
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Presentation Layer\location_input.baml
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Presentation Layer\MainWindow.baml
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Presentation Layer\visit_record.baml
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Trackandtrace1.g.resources
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Trackandtrace1.Properties.Resources.resources
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Trackandtrace1.csproj.GenerateResource.cache
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Trackandtrace1.csproj.CoreCompileInputs.cache
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Trackandtrace1.exe
+C:\Users\p\source\repos\Track-and-trace-prototype-main\Trackandtrace1\obj\Debug\Trackandtrace1.pdb
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\bin\Debug\Trackandtrace1.exe.config
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\bin\Debug\Trackandtrace1.exe
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\bin\Debug\Trackandtrace1.pdb
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Trackandtrace1.csprojAssemblyReference.cache
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Presentation Layer\contact_record.g.cs
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Presentation Layer\generate_meetings.g.cs
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Presentation Layer\generate_visits.g.cs
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Presentation Layer\individual_input.g.cs
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Presentation Layer\location_input.g.cs
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Presentation Layer\MainWindow.g.cs
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Presentation Layer\visit_record.g.cs
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\App.g.cs
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Trackandtrace1_MarkupCompile.cache
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Trackandtrace1_MarkupCompile.lref
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Presentation Layer\contact_record.baml
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Presentation Layer\generate_meetings.baml
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Presentation Layer\generate_visits.baml
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Presentation Layer\individual_input.baml
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Presentation Layer\location_input.baml
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Presentation Layer\MainWindow.baml
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Presentation Layer\visit_record.baml
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Trackandtrace1.g.resources
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Trackandtrace1.Properties.Resources.resources
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Trackandtrace1.csproj.GenerateResource.cache
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Trackandtrace1.csproj.CoreCompileInputs.cache
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Trackandtrace1.exe
+C:\Users\p\source\repos\TrackApp\Trackandtrace1\obj\Debug\Trackandtrace1.pdb
